@@ -48,7 +48,7 @@ Here are some notable features of the Course Goals project:
 
 <p style="font-weight: bold;">1. Clone the repository:</p>
 
-> To clone the Course Goals repository, run the following command in your terminal:
+> To clone the course-goals repository, run the following command in your terminal:
 
 ```
 git clone https://github.com/kranthikumarkaranam/course-goals.git
